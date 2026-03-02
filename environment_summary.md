@@ -20,8 +20,6 @@ to ensure reproducibility and fairness across teams.
 ## 2. NRP Jupyter Image
 
 - Image Name: NRP Stack PyTorch2
-- Image Tag/Version: [INSERT EXACT TAG FROM NRP]
-- Launch Date of Environment: [INSERT DATE]
 
 ---
 
@@ -37,7 +35,7 @@ Output: `Python 3.10.10`
 
 The following command was used to capture installed packages:
 ```Bash
-pip freeze > requirements_freeze.txt
+pip list --format=freeze > requirements_freeze.txt
 ```
 Below are the primary libraries used in this project:
 
