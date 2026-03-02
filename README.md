@@ -1,33 +1,27 @@
-# CSE 5140 – Computational Intelligence  
-## Team 2 – Chicago Divvy Bike Sharing Prediction
+# CSE 5140 – Computational Intelligence
+
+🧠  ## Team 2 –  Computational Intelligence Project
+
+---
+
+🚀 Introduction
+
+---
 
 This repository contains the full implementation for the **CSE 5140 Semester Project** for Computational Intelligence.
 
-We design, implement, and rigorously compare the three core paradigms of Computational Intelligence:
+The will design, implement, and rigorously compare the three core paradigms of Computational Intelligence:
 
 - **Neural Networks (NN)**
 - **Evolutionary Algorithms (EA)**
 - **Fuzzy Systems (FS)**
 
-All experiments are executed on **NRP.ai (NRP JupyterHub – PyTorch2 stack)** as required by the project specification.
+Neural Networks are computational models inspired by the human brain that learn patterns from data, Evolutionary Networks use principles of natural selection 
+and genetic adaptation to optimize solutions over time, and Fuzzy Systems apply approximate reasoning with degrees of truth rather than binary logic to 
+handle uncertainty and imprecision in complex problems.
 
----
+--
 
-# 📊 Dataset
-
-**Team 2 Dataset:**  
-Chicago Divvy Bike Sharing  
-
-**Target Variable:** `tripduration` (in minutes)
-
-Fairness Protocol:
-
-- Use **first 1,000,000 rows**
-- Equivalent feature set across teams
-- Train / Validation / Test split: **70 / 15 / 15**
-- Use normalized metrics (R², MAPE) for final comparison
-
----
 # 🧠 Phase Overview
 
 ## Phase 1 – Neural Networks
