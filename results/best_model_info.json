@@ -1,0 +1,36 @@
+{
+    "best_fitness_r2": 0.6624183300173385,
+    "runtime_sec": 1393.2370512485504,
+    "total_evaluations": 156,
+    "hyperparameters": {
+        "n_layers": 3,
+        "neurons": 141,
+        "batch_size": 16,
+        "activation": "relu",
+        "learning_rate": 0.0004453278584779773,
+        "dropout": 0.0,
+        "l2_reg": 0.004376782536062869
+    },
+    "feature_mask": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+    ]
+}
