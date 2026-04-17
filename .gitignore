@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*.h5
+*.keras
+*.pth
+results/
+docs/images/generated/
